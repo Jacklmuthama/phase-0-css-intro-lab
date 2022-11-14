@@ -1,6 +1,23 @@
+body {
+  background:#00b3e6 ;
+}
 h1 {color: blueviolet;}
 h2 {color: green;}
 p {color: crimson;}
 .Mart {color:gray;}
 h3 {color: red;}
-#third {color: purple}
+#third {color: purple;}
+div {
+  width: 700px;
+  margin: auto;
+  font-family: 'Helvetica Neue';
+  background-color: white;
+  padding: 30px;
+}
+#main-header {
+   font-size: 22px;
+}
+.perspective-questions {
+  font-style: italic;
+}
+
